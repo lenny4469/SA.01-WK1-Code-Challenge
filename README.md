@@ -22,5 +22,11 @@
    page link...https://github.com/lenny4469/SA.01-WK1-Code-Challenge/edit/main
 
    Support and contact details...
+   Lenny Mawira
    email: lenny.mawira@student.moringaschool.com
+   licensed by,
+   The content of this site is licensed under the MIT license
+   Copyright (c) 2018.
+
+   
    
